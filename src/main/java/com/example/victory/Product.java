@@ -41,7 +41,4 @@ public class Product {
     public String getDueDate() {
         return dueDate;
     }
-    public void setDueDate(String dueDate) {
-        this.dueDate = dueDate;
-    }
 }
